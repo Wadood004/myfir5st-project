@@ -1,3 +1,3 @@
-# myfir5st-project
+# myfirst-project
 this is my first get repository 
-author-Andul Wadood Shah
+author-Abdul Wadood Shah
